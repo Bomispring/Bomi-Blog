@@ -1,0 +1,13 @@
+---
+title: Bomi
+author: 'Bomi Spring'
+date: '2022-05-06'
+slug: bomi
+categories: []
+tags: []
+---
+
+Spring
+Summer
+Fall
+Winter
